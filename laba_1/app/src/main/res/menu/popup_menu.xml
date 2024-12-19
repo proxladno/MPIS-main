@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/download"
+        android:title="Скачать" />
+    <item
+        android:id="@+id/rate"
+        android:title="Оценить" />
+    <item
+        android:id="@+id/site"
+        android:title="Открыть в браузере"/>
+</menu>
